@@ -1,5 +1,5 @@
 # keyboard-web-app
-Version 2 (www.https://keyboard-layout-generator.herokuapp.com):
+Version 2 (https://keyboard-layout-generator.herokuapp.com):
 
 This version added additional capabilities which help with parsing longer text entries. Before, for any given text entry the same
 methodology was used to calculate it. Consequentially, the time increased to massive proportions if the text was longer than a
